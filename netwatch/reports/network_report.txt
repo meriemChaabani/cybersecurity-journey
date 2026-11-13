@@ -1,0 +1,20 @@
+NETWATCH NETWORK INVESTIGATION REPORT
+==================================================
+
+Total packets: 18
+Analyzed IPv4 packets: 18
+
+PROTOCOL STATISTICS
+------------------------------
+TCP: 14
+UDP: 3
+ICMP: 1
+
+SOURCE IP STATISTICS
+------------------------------
+192.0.2.10: 9 packets
+203.0.113.50: 9 packets
+
+SECURITY ALERTS
+------------------------------
+POSSIBLE PORT SCANNING: 203.0.113.50 contacted 198.51.100.20 on 9 different destination ports.
