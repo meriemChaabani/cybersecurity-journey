@@ -1,0 +1,36 @@
+LOGWATCH PRO - SECURITY REPORT
+=======================================================
+
+Total recognized events: 18
+Invalid log entries: 0
+Analyzed IP addresses: 3
+
+IP ADDRESS INVESTIGATION
+-------------------------------------------------------
+
+IP Address: 192.168.1.50
+Severity: HIGH
+Failed attempts: 5
+Successful attempts: 1
+Maximum failures in 1 minute: 5
+Maximum failures in 5 minutes: 5
+Successful login after failure within 10 minutes: True
+-----------------------------------
+
+IP Address: 10.0.0.15
+Severity: CRITICAL
+Failed attempts: 10
+Successful attempts: 0
+Maximum failures in 1 minute: 4
+Maximum failures in 5 minutes: 10
+Successful login after failure within 10 minutes: False
+-----------------------------------
+
+IP Address: 172.16.0.25
+Severity: LOW
+Failed attempts: 2
+Successful attempts: 0
+Maximum failures in 1 minute: 2
+Maximum failures in 5 minutes: 2
+Successful login after failure within 10 minutes: False
+-----------------------------------
